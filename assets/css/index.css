@@ -1,6 +1,8 @@
 body {
     background-color: #e0e3e8;
 }
+
+
 /* Navbar */
 header {
     position: fixed;
@@ -18,11 +20,6 @@ nav {
     justify-content:space-between;
     height: 60px;
 }
-
-/* .nav-left {
-    flex: 50%;
-    background-color: aqua;
-} */
 
 .nav-left ul {
     display: flex;
@@ -76,17 +73,9 @@ nav {
     margin-top: 100px;
 }
 
-/* section {
-    margin: 60px 250px 0 250px;
-    display: flex;
-} */
-
 section {
     border: 1px solid white;
-    /* box-shadow: 1px 2px 4px 2px gray; */
     border-radius: 10px;
-    /* background-color:darkgray; */
-    /* margin: 5% 10px 0 10px; */
 }
 
 section p {
@@ -98,13 +87,11 @@ section div button {
     background-color: black; color: white; 
     font-size: 17px; 
     padding: 3px 1.5em 5px 1.5em; 
-    /* border-radius: 20px;  */
     margin: 0px 0 10px 0px;
 }
 
 .flex-section {
     display: flex;
-    /* align-items: center; */
     justify-content: space-between;
     padding: 30px;
 }
@@ -125,18 +112,8 @@ section div button {
 
 .sosmed {
     margin-top: 30px; 
-    display: flex; 
-    /* flex: 1;  */
-    /* align-items:center;  */
-    /* justify-content: start;  */
+    display: flex;
 }
-/* .sosmed i {
-    color: white; 
-    padding: 3px; 
-    border: 5px solid black; 
-    background-color: black; 
-    border-radius: 50%; 
-} */
 
 .card-photo {
     box-shadow: 0 0px 15px 0px grey; 
@@ -155,7 +132,6 @@ section div button {
 .card a button{
     border-radius: 30px;
     font-size: 20px;
-    /* border: 1px solid red; */
 }
 .card p {
     margin-bottom: 40px;
