@@ -50,7 +50,7 @@ nav {
 .nav-right {
     display: flex;
     align-items: center;
-    padding: 10px 20px 10px 20px;
+    padding: 8px 25px 8px 25px;
     margin: 20px;
     border-radius: 10px;
     background-color: black;
@@ -71,7 +71,7 @@ form > div {
     width: 100% auto;
 }
 .box {
-    margin: 80px auto;
+    margin: 4% auto;
     width: 40%;
     /* background-color: red; */
 }
@@ -96,6 +96,7 @@ select {
 textarea {
     resize: none;
     height: 100px;
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -103,6 +104,7 @@ h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* margin: 40px; */
     margin-bottom: 40px;
+    padding-top: 25px;
 }
 
 button {
